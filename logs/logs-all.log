@@ -1,0 +1,10 @@
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:00.624Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:05.166Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:10.352Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:15.164Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:20.245Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:25.234Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:30.346Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-10-16T15:45:35.179Z"} 
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2024-10-16T15:46:45.103Z"} 
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2024-10-16T15:46:50.012Z"} 
